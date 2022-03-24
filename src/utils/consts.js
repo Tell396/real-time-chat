@@ -1,2 +1,2 @@
-export const LOGIN_ROUTE = '/login'
-export const CHAT_ROUTE = '/chat'
+export const LOGIN_ROUTE = 'real-time-chat/login'
+export const CHAT_ROUTE = 'real-time-chat/chat'
